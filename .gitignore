@@ -1,0 +1,10 @@
+/venv/
+/dist/
+/src/*.egg-info/
+/.git
+/.idea/
+scratch.py
+/docs/build
+/docs/make.bat
+/docs/Makefile
+__pycache__
